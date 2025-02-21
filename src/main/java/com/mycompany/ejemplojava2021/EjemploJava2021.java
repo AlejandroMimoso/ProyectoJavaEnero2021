@@ -11,6 +11,6 @@ package com.mycompany.ejemplojava2021;
 public class EjemploJava2021 {
 
     public static void main(String[] args) {
-        System.out.println("Hola me llamo Alejandro Mimoso y hoy es Viernes 21/02/2025");
+        System.out.println("Hola me llamo Alejandro Mimoso y hoy es Viernes 21/02/2025. Esto que estoy escribiendo nuevo es desde el editor de GitHub ");
     }
 }
